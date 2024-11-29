@@ -11,10 +11,14 @@
             "id": "2dd20a186d4fb43b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Hello Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello Obsidian"
             }
           }
         ]
@@ -69,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hello Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Hello Obsidian 的反向链接列表"
             }
           },
           {
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hello Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Hello Obsidian 的出链列表"
             }
           },
           {
@@ -133,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Hello Obsidian.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Hello Obsidian 的大纲"
             }
           },
           {
@@ -167,7 +174,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4835a1cb0de38d64",
+  "active": "2dd20a186d4fb43b",
   "lastOpenFiles": [
     "Hello Obsidian.md",
     "Web3/Front End",

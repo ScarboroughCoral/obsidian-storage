@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ffe549948f841728",
+        "id": "5a28b68e6f95ea8a",
         "type": "tabs",
         "children": [
           {
-            "id": "2dd20a186d4fb43b",
+            "id": "8a62152cf3ecb12d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Hello Obsidian.md",
-                "staged": false
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Hello Obsidian)"
+              "icon": "lucide-file",
+              "title": "Hello Obsidian"
             }
           }
         ]
@@ -173,7 +174,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4835a1cb0de38d64",
+  "active": "8a62152cf3ecb12d",
   "lastOpenFiles": [
     "Hello Obsidian.md",
     "English/Spoken/Travel",

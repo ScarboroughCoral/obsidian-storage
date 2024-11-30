@@ -11,13 +11,14 @@
             "id": "8a62152cf3ecb12d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
+                "file": "Web3/Front End/ethers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (app.json)"
+              "icon": "lucide-file",
+              "title": "ethers"
             }
           }
         ]
@@ -175,6 +176,20 @@
   },
   "active": "8a62152cf3ecb12d",
   "lastOpenFiles": [
+    "Web3/Front End/357.png",
+    "Web3/Front End/ethers.md",
+    "Web3/Front End/ethers.js.md",
+    "Web3/Front End/348.png",
+    "Web3/Front End/343.png",
+    "Web3/Front End/340.png",
+    "Web3/Front End/335.png",
+    "Web3/Front End/330.png",
+    "Web3/Front End/300.png",
+    "Web3/Front End/235.png",
+    "Web3/Front End/218.png",
+    "Web3/Front End/185.png",
+    "Web3/Front End",
+    "Web3",
     "Web2/Engineering/Monorepo/Lerna.md",
     "Hello Obsidian.md",
     "Web2/Engineering/未命名 1",
@@ -185,9 +200,7 @@
     "English/Spoken",
     "English",
     "Web3/Front End",
-    "Web3/Xiao's Blockchain",
     "Web3/未命名.md",
-    "未命名.md",
-    "Web3"
+    "未命名.md"
   ]
 }

@@ -11,14 +11,17 @@
             "id": "8a62152cf3ecb12d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Web3/Front End/ethers.md",
-                "mode": "source",
-                "source": false
+                "file": "Web3/Front End/cosmos.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "ethers"
+              "icon": "lucide-layout-dashboard",
+              "title": "cosmos"
             }
           }
         ]
@@ -176,8 +179,9 @@
   },
   "active": "8a62152cf3ecb12d",
   "lastOpenFiles": [
-    "Web3/Front End/357.png",
     "Web3/Front End/ethers.md",
+    "Web3/Front End/cosmos.canvas",
+    "Web3/Front End/357.png",
     "Web3/Front End/ethers.js.md",
     "Web3/Front End/348.png",
     "Web3/Front End/343.png",

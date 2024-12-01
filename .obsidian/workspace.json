@@ -15,8 +15,8 @@
               "state": {
                 "file": "Web3/Front End/cosmos.canvas",
                 "viewState": {
-                  "x": -74.543984375,
-                  "y": -34.41,
+                  "x": 30,
+                  "y": 186,
                   "zoom": 0
                 }
               },
@@ -173,15 +173,28 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8a62152cf3ecb12d",
   "lastOpenFiles": [
-    "Web2/Engineering/Monorepo/Lerna.md",
-    "Web3/Front End/ethers.md",
+    "Pasted image 20241201153210.png",
     "Web3/Front End/cosmos.canvas",
+    "Web3/Front End/ethers.md",
+    "Web3/Front End/357.png",
+    "Web3/Front End/ethers.js.md",
+    "Web3/Front End/348.png",
+    "Web3/Front End/343.png",
+    "Web3/Front End/340.png",
+    "Web3/Front End/335.png",
+    "Web3/Front End/330.png",
+    "Web3/Front End/300.png",
+    "Web3/Front End/235.png",
+    "Web3/Front End/218.png",
+    "Web3/Front End",
+    "Web3",
+    "Web2/Engineering/Monorepo/Lerna.md",
     "Hello Obsidian.md",
     "Web2/Engineering/未命名 1",
     "Web2/Engineering/Monorepo",
@@ -191,9 +204,7 @@
     "English/Spoken",
     "English",
     "Web3/Front End",
-    "Web3/Xiao's Blockchain",
     "Web3/未命名.md",
-    "未命名.md",
-    "Web3"
+    "未命名.md"
   ]
 }

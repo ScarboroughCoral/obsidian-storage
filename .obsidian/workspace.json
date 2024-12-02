@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a28b68e6f95ea8a",
+        "id": "8a640ba4d05646a6",
         "type": "tabs",
         "children": [
           {
-            "id": "8a62152cf3ecb12d",
+            "id": "a14dc1a0906a129b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Web3/Front End/cosmos.canvas",
-                "viewState": {
-                  "x": 30,
-                  "y": 186,
-                  "zoom": 0
-                }
+                "file": "Diary/Template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "cosmos"
+              "icon": "lucide-file",
+              "title": "Template"
             }
           }
         ]
@@ -177,10 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a62152cf3ecb12d",
+  "active": "a14dc1a0906a129b",
   "lastOpenFiles": [
-    "Pasted image 20241201153210.png",
+    "Diary/2024-12-02.md",
+    "Diary/Template.md",
+    "2024-12-02.md",
+    "Diary/Template",
+    "Diary",
     "Web3/Front End/cosmos.canvas",
+    "Pasted image 20241201153210.png",
     "Web3/Front End/ethers.md",
     "Web3/Front End/357.png",
     "Web3/Front End/ethers.js.md",
@@ -202,8 +204,6 @@
     "English/Spoken/Travel",
     "English/Spoken/Work",
     "English/Spoken",
-    "English",
-    "Web3/Front End",
     "Web3/未命名.md",
     "未命名.md"
   ]

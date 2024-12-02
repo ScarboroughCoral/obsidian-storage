@@ -11,17 +11,10 @@
             "id": "8a62152cf3ecb12d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Web3/Front End/cosmos.canvas",
-                "viewState": {
-                  "x": 30,
-                  "y": 186,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "cosmos"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -179,22 +172,9 @@
   },
   "active": "8a62152cf3ecb12d",
   "lastOpenFiles": [
-    "Pasted image 20241201153210.png",
+    "Web2/Engineering/Monorepo/Lerna.md",
     "Web3/Front End/cosmos.canvas",
     "Web3/Front End/ethers.md",
-    "Web3/Front End/357.png",
-    "Web3/Front End/ethers.js.md",
-    "Web3/Front End/348.png",
-    "Web3/Front End/343.png",
-    "Web3/Front End/340.png",
-    "Web3/Front End/335.png",
-    "Web3/Front End/330.png",
-    "Web3/Front End/300.png",
-    "Web3/Front End/235.png",
-    "Web3/Front End/218.png",
-    "Web3/Front End",
-    "Web3",
-    "Web2/Engineering/Monorepo/Lerna.md",
     "Hello Obsidian.md",
     "Web2/Engineering/未命名 1",
     "Web2/Engineering/Monorepo",

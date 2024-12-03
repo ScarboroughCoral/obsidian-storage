@@ -11,13 +11,17 @@
             "id": "53b92c462cb4107e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "canvas",
               "state": {
-                "file": ".obsidian/bookmarks.json",
-                "staged": false
+                "file": "Web3/以太坊是怎么运行的.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (bookmarks.json)"
+              "icon": "lucide-layout-dashboard",
+              "title": "以太坊是怎么运行的"
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web3/以太坊是怎么运行的.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "以太坊是怎么运行的 的反向链接列表"
             }
           },
           {
@@ -110,11 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web3/以太坊是怎么运行的.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "以太坊是怎么运行的 的出链列表"
             }
           },
           {
@@ -135,9 +141,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Web3/以太坊是怎么运行的.canvas"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "以太坊是怎么运行的 的大纲"
             }
           },
           {
@@ -170,9 +178,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "53b92c462cb4107e",
+  "active": "428c126dca507173",
   "lastOpenFiles": [
     "Web3/拜占庭将军问题.canvas",
+    "Web3/以太坊是怎么运行的.canvas",
+    "Web2/NodeJS是如何运行的.canvas",
     "Diary/Template.md",
     "Web3/Front End/ethers.md",
     "Web3/Front End/attachments/Pasted image 20241203161744.png",

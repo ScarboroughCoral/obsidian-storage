@@ -11,17 +11,13 @@
             "id": "53b92c462cb4107e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "diff-view",
               "state": {
-                "file": "Web3/拜占庭将军问题.canvas",
-                "viewState": {
-                  "x": 494,
-                  "y": 460,
-                  "zoom": -0.9377157217456575
-                }
+                "file": ".obsidian/bookmarks.json",
+                "staged": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "拜占庭将军问题"
+              "icon": "git-pull-request",
+              "title": "Diff View (bookmarks.json)"
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3/拜占庭将军问题.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "拜占庭将军问题 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -115,12 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3/拜占庭将军问题.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "拜占庭将军问题 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -141,11 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web3/拜占庭将军问题.canvas"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "拜占庭将军问题 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -159,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,13 +172,16 @@
   },
   "active": "53b92c462cb4107e",
   "lastOpenFiles": [
-    "Hello Obsidian.md",
     "Web3/拜占庭将军问题.canvas",
+    "Diary/Template.md",
+    "Web3/Front End/ethers.md",
+    "Web3/Front End/attachments/Pasted image 20241203161744.png",
+    "Web3/Front End/attachments",
+    "Hello Obsidian.md",
+    "Web3/Xiao's Blockchain/ETH",
+    "Web3/Xiao's Blockchain/BTC",
     "Web3/attachments/Pasted image 20241203123742.png",
     "Web3/Front End/attachments/拜占庭将军问题.canvas",
-    "Web3/Front End/ethers.md",
-    "Web3/Front End/attachments",
-    "Diary/Template.md",
     "未命名.canvas",
     "Diary/2024-12-03.md",
     "未命名看板.md",
@@ -201,8 +196,6 @@
     "Web2/Engineering",
     "English/Spoken/Travel",
     "English/Spoken/Work",
-    "English/Spoken",
-    "English",
     "Web3/未命名.md",
     "未命名.md"
   ]

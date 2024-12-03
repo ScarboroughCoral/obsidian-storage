@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8a640ba4d05646a6",
+        "id": "5a28b68e6f95ea8a",
         "type": "tabs",
         "children": [
           {
-            "id": "a14dc1a0906a129b",
+            "id": "8a62152cf3ecb12d",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
+            "id": "d47fec25b68dc967",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +34,8 @@
               "title": "Template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,33 +184,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a14dc1a0906a129b",
+  "active": "d47fec25b68dc967",
   "lastOpenFiles": [
-    "Diary/2024-12-02.md",
     "Diary/Template.md",
-    "2024-12-02.md",
-    "Diary/Template",
     "Diary",
-    "Web3/Front End/cosmos.canvas",
-    "Pasted image 20241201153210.png",
-    "Web3/Front End/ethers.md",
-    "Web3/Front End/357.png",
-    "Web3/Front End/ethers.js.md",
-    "Web3/Front End/348.png",
-    "Web3/Front End/343.png",
-    "Web3/Front End/340.png",
-    "Web3/Front End/335.png",
-    "Web3/Front End/330.png",
-    "Web3/Front End/300.png",
-    "Web3/Front End/235.png",
-    "Web3/Front End/218.png",
-    "Web3/Front End",
-    "Web3",
+    "conflict-files-obsidian-git.md",
     "Web2/Engineering/Monorepo/Lerna.md",
+    "Web3/Front End/cosmos.canvas",
+    "Web3/Front End/ethers.md",
     "Hello Obsidian.md",
     "Web2/Engineering/未命名 1",
     "Web2/Engineering/Monorepo",
@@ -204,6 +203,9 @@
     "English/Spoken/Travel",
     "English/Spoken/Work",
     "English/Spoken",
+    "English",
+    "Web3/Front End",
+    "Web3/Xiao's Blockchain",
     "Web3/未命名.md",
     "未命名.md"
   ]

@@ -11,10 +11,17 @@
             "id": "53b92c462cb4107e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "canvas",
+              "state": {
+                "file": "Web3/拜占庭将军问题.canvas",
+                "viewState": {
+                  "x": 494,
+                  "y": 460,
+                  "zoom": -0.9377157217456575
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "拜占庭将军问题"
             }
           }
         ]
@@ -89,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Obsidian.md",
+                "file": "Web3/拜占庭将军问题.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Hello Obsidian 的反向链接列表"
+              "title": "拜占庭将军问题 的反向链接列表"
             }
           },
           {
@@ -108,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Obsidian.md",
+                "file": "Web3/拜占庭将军问题.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Hello Obsidian 的出链列表"
+              "title": "拜占庭将军问题 的出链列表"
             }
           },
           {
@@ -135,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Obsidian.md"
+                "file": "Web3/拜占庭将军问题.canvas"
               },
               "icon": "lucide-list",
-              "title": "Hello Obsidian 的大纲"
+              "title": "拜占庭将军问题 的大纲"
             }
           },
           {
@@ -152,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e612311b6fe1d3d",
+        "id": "c7479c818019a2ea",
         "type": "tabs",
         "children": [
           {
-            "id": "527696e07f506932",
+            "id": "473717c16432edb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello Obsidian.md",
+                "file": "Diary/2024-12-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello Obsidian"
+              "title": "2024-12-04"
             }
           }
         ]
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,41 +164,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:创建新看板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "428c126dca507173",
+  "active": "473717c16432edb8",
   "lastOpenFiles": [
-    "Web3/拜占庭将军问题.canvas",
-    "Computer Science/6.828",
-    "Web3/以太坊是怎么运行的.canvas",
-    "Web2/NodeJS是如何运行的.canvas",
+    "Hello Obsidian.md",
+    "Diary/2024-12-04.md",
     "Diary/Template.md",
-    "Web3/Front End/ethers.md",
+    "Web3/拜占庭将军问题.canvas",
+    "Web3/以太坊是怎么运行的.canvas",
+    "Web3/attachments/Pasted image 20241203123742.png",
+    "Web3/attachments",
     "Web3/Front End/attachments/Pasted image 20241203161744.png",
     "Web3/Front End/attachments",
-    "Hello Obsidian.md",
-    "Web3/Xiao's Blockchain/ETH",
-    "Web3/Xiao's Blockchain/BTC",
-    "Web3/attachments/Pasted image 20241203123742.png",
-    "Web3/Front End/attachments/拜占庭将军问题.canvas",
-    "未命名.canvas",
-    "Diary/2024-12-03.md",
-    "未命名看板.md",
-    "Web3/attachments",
-    "Web2/Engineering/Monorepo/Lerna.md",
-    "Web3/Front End/attachments/Pasted image 20241203123437.png",
-    "Web3/Front End/Pasted image 20241203123234.png",
+    "Web2/NodeJS是如何运行的.canvas",
+    "Web3/Front End/cosmos.canvas",
+    "Diary/2024-12-02.md",
+    "2024-12-02.md",
+    "Diary/Template",
     "Diary",
-    "conflict-files-obsidian-git.md",
+    "Pasted image 20241201153210.png",
+    "Web3/Front End/ethers.md",
+    "Web3/Front End/357.png",
+    "Web3/Front End/ethers.js.md",
+    "Web3/Front End/348.png",
+    "Web3/Front End/343.png",
+    "Web3/Front End/340.png",
+    "Web3/Front End/335.png",
+    "Web3/Front End/330.png",
+    "Web3/Front End/300.png",
+    "Web3/Front End",
+    "Web3",
+    "Web2/Engineering/Monorepo/Lerna.md",
     "Web2/Engineering/未命名 1",
     "Web2/Engineering/Monorepo",
     "Web2/Engineering",

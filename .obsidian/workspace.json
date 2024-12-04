@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a184f29de1069da5",
+        "id": "93d5704a44f0705e",
         "type": "tabs",
         "children": [
           {
-            "id": "53b92c462cb4107e",
+            "id": "556750c0df104cc1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Web3/以太坊是怎么运行的.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "以太坊是怎么运行的"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -96,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3/以太坊是怎么运行的.canvas",
+                "file": "Web3/拜占庭将军问题.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "以太坊是怎么运行的 的反向链接列表"
+              "title": "拜占庭将军问题 的反向链接列表"
             }
           },
           {
@@ -115,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3/以太坊是怎么运行的.canvas",
+                "file": "Web3/拜占庭将军问题.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "以太坊是怎么运行的 的出链列表"
+              "title": "拜占庭将军问题 的出链列表"
             }
           },
           {
@@ -142,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web3/以太坊是怎么运行的.canvas"
+                "file": "Web3/拜占庭将军问题.canvas"
               },
               "icon": "lucide-list",
-              "title": "以太坊是怎么运行的 的大纲"
+              "title": "拜占庭将军问题 的大纲"
             }
           },
           {
@@ -180,8 +173,9 @@
   },
   "active": "428c126dca507173",
   "lastOpenFiles": [
-    "Web3/拜占庭将军问题.canvas",
+    "Computer Science/6.828",
     "Web3/以太坊是怎么运行的.canvas",
+    "Web3/拜占庭将军问题.canvas",
     "Web2/NodeJS是如何运行的.canvas",
     "Diary/Template.md",
     "Web3/Front End/ethers.md",

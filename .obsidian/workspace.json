@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "93d5704a44f0705e",
+        "id": "9e612311b6fe1d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "556750c0df104cc1",
+            "id": "527696e07f506932",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hello Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Hello Obsidian"
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3/拜占庭将军问题.canvas",
+                "file": "Hello Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "拜占庭将军问题 的反向链接列表"
+              "title": "Hello Obsidian 的反向链接列表"
             }
           },
           {
@@ -108,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3/拜占庭将军问题.canvas",
+                "file": "Hello Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "拜占庭将军问题 的出链列表"
+              "title": "Hello Obsidian 的出链列表"
             }
           },
           {
@@ -135,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web3/拜占庭将军问题.canvas"
+                "file": "Hello Obsidian.md"
               },
               "icon": "lucide-list",
-              "title": "拜占庭将军问题 的大纲"
+              "title": "Hello Obsidian 的大纲"
             }
           },
           {
@@ -152,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -173,9 +177,9 @@
   },
   "active": "428c126dca507173",
   "lastOpenFiles": [
+    "Web3/拜占庭将军问题.canvas",
     "Computer Science/6.828",
     "Web3/以太坊是怎么运行的.canvas",
-    "Web3/拜占庭将军问题.canvas",
     "Web2/NodeJS是如何运行的.canvas",
     "Diary/Template.md",
     "Web3/Front End/ethers.md",
@@ -199,7 +203,6 @@
     "Web2/Engineering/Monorepo",
     "Web2/Engineering",
     "English/Spoken/Travel",
-    "English/Spoken/Work",
     "Web3/未命名.md",
     "未命名.md"
   ]

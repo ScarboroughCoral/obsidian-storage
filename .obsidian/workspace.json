@@ -11,13 +11,14 @@
             "id": "74f9f63878c1d7e1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Category Theory/ctfp/类型和函数.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "类型和函数"
             }
           }
         ]
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Category Theory/ctfp/类型和函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "类型和函数 的反向链接列表"
             }
           },
           {
@@ -110,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Category Theory/ctfp/类型和函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "类型和函数 的出链列表"
             }
           },
           {
@@ -135,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Category Theory/ctfp/类型和函数.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "类型和函数 的大纲"
             }
           },
           {

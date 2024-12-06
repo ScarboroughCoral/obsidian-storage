@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cd44a31569cb8311",
@@ -178,8 +177,8 @@
   },
   "active": "74f9f63878c1d7e1",
   "lastOpenFiles": [
-    "Category Theory/ctfp/类型和函数.md",
     "Category Theory/ctfp/组合基础.md",
+    "Category Theory/ctfp/类型和函数.md",
     "Hello Obsidian.md",
     "Category Theory/ctfp",
     "Category Theory",

@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Obsidian.md"
+                "file": "Category Theory/ctfp/类型和函数.md"
               },
               "icon": "lucide-list",
-              "title": "Hello Obsidian 的大纲"
+              "title": "类型和函数 的大纲"
             }
           },
           {
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,7 +174,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "198529814b783a3b",
+  "active": "653299d6affee3e9",
   "lastOpenFiles": [
     "Category Theory/ctfp/组合基础.md",
     "Category Theory/ctfp/类型和函数.md",

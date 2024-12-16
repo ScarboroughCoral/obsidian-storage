@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-12-09.md",
+                "file": "Diary/2024-12-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-09"
+              "title": "2024-12-16"
             }
           }
         ]
@@ -176,8 +176,9 @@
   },
   "active": "198529814b783a3b",
   "lastOpenFiles": [
-    "Diary/2024-12-06.md",
     "Diary/2024-12-09.md",
+    "Diary/2024-12-16.md",
+    "Diary/2024-12-06.md",
     "Hello Obsidian.md",
     "Category Theory/ctfp/类型和函数.md",
     "Category Theory/ctfp/组合基础.md",

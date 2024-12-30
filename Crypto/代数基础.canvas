@@ -4,7 +4,8 @@
 		{"id":"1960fcde91c13f6f","type":"text","text":"# Def\n$gcd(x,y)$表示$x$,$y$的最大公约数","x":221,"y":-5,"width":299,"height":105},
 		{"id":"fcb6711e0eba42d1","type":"text","text":"# Fact\n$gcd(x,y)=a\\cdot x+ b\\cdot y$\n$a$,$b$可以通过扩展欧几里得算法求出","x":246,"y":180,"width":250,"height":160},
 		{"id":"aca8ad5c0c82e4e9","type":"text","text":"# Def\n$\\mathbb{Z}_N$中 $x$的倒数也在$\\mathbb{Z}_N$中，表示为$x^{-1}$。其中$x^{-1}\\cdot x = 1$ in $\\mathbb{Z}_N$","x":640,"y":90,"width":300,"height":170},
-		{"id":"076371cd8c1be223","type":"text","text":"# Lemma\n$x,\\ in\\ \\mathbb{Z}_N 存在倒数\\leftrightarrow gcd(x,N)=1$ \n## Proof\n$$\\displaylines{\ngcd(x,N)=1\\\\\n\\rightarrow \\exists a,b: a\\cdot x + b\\cdot N = 1\\\\\n\\rightarrow a\\cdot x = 1\\ in\\ \\mathbb{Z}_N\\\\\n\\rightarrow x^{-1}=a\\ in\\ \\mathbb{Z}_N}$$  ","x":760,"y":440,"width":500,"height":340}
+		{"id":"076371cd8c1be223","type":"text","text":"# Lemma\n$x,\\ in\\ \\mathbb{Z}_N 存在倒数\\leftrightarrow gcd(x,N)=1$ \n## Proof\n- case 1.\n$$\\displaylines{\ngcd(x,N)=1\\\\\n\\rightarrow \\exists a,b: a\\cdot x + b\\cdot N = 1\\\\\n\\rightarrow a\\cdot x = 1\\ in\\ \\mathbb{Z}_N\\\\\n\\rightarrow x^{-1}=a\\ in\\ \\mathbb{Z}_N}$$\n\n- case 2.\n\n$$\n\\displaylines{\ngcd(x,N)>1\\\\\n\\rightarrow \\forall a: gcd(a\\cdot x , b) > 1\\\\\n\\rightarrow a\\cdot x \\neq 1\\ in\\ \\mathbb{Z}_N\n}\n$$","x":760,"y":440,"width":500,"height":480},
+		{"id":"a59ba692a1e75fd1","x":1242,"y":500,"width":398,"height":260,"type":"text","text":"# Def\n$\\mathbb{Z}^{*}_N = \\{\\mathbb{Z}_N中存在倒数的元素\\} = {\\x \\belongs \\mathbb{Z}_N}$"}
 	],
 	"edges":[
 		{"id":"ad4aea5e3c63322f","fromNode":"24f4f51c784b1e50","fromSide":"right","toNode":"1960fcde91c13f6f","toSide":"left"},

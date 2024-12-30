@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"91bb3a1f6d4408aa","x":-125,"y":-30,"width":865,"height":370,"type":"text","text":"# 群\n![[Computer Science/离散数学/attachments/Pasted image 20241230122958.png]]"}
+	],
+	"edges":[]
+}

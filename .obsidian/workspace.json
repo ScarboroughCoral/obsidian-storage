@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Computer Science/离散数学/知识关系图.canvas",
+                "file": "Crypto/代数基础.canvas",
                 "viewState": {
-                  "x": 318.091796875,
-                  "y": 99.67553710937499,
-                  "zoom": -0.026668294270833334
+                  "x": 228.828125,
+                  "y": 195.63652343750005,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "知识关系图"
+              "title": "代数基础"
             }
           }
         ]
@@ -177,10 +177,12 @@
   },
   "active": "40468a75304bf840",
   "lastOpenFiles": [
+    "Computer Science/离散数学/知识关系图.canvas",
+    "Crypto/代数基础.canvas",
+    "Crypto",
     "Computer Science/离散数学/attachments/Pasted image 20241230122958.png",
     "Computer Science/离散数学/attachments",
     "Computer Science/离散数学/未命名.md",
-    "Computer Science/离散数学/知识关系图.canvas",
     "Computer Science/离散数学",
     "Category Theory/ctfp/组合基础.md",
     "Diary/2024-12-24.md",
@@ -212,7 +214,6 @@
     "Web2/Engineering/Monorepo/Lerna.md",
     "Web3/Front End/attachments/Pasted image 20241203123437.png",
     "Web3/Front End/Pasted image 20241203123234.png",
-    "Diary",
     "conflict-files-obsidian-git.md",
     "Web3/未命名.md",
     "未命名.md"

@@ -15,8 +15,8 @@
               "state": {
                 "file": "Crypto/代数基础.canvas",
                 "viewState": {
-                  "x": 892.7535929179264,
-                  "y": 529.6025491052314,
+                  "x": 1039.7316146943751,
+                  "y": 572.1299042593648,
                   "zoom": 0.21116034213410717
                 }
               },
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cd44a31569cb8311",

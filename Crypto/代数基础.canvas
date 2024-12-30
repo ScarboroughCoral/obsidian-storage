@@ -3,7 +3,8 @@
 		{"id":"24f4f51c784b1e50","x":-125,"y":-30,"width":245,"height":110,"type":"text","text":"- $N$表示正整数\n- $p$表示素数\n- $\\mathbb{Z}_N=\\{0,1...,N-1\\}$"},
 		{"id":"1960fcde91c13f6f","x":221,"y":-5,"width":299,"height":105,"type":"text","text":"# Def\n$gcd(x,y)$表示$x$,$y$的最大公约数"},
 		{"id":"fcb6711e0eba42d1","x":246,"y":180,"width":250,"height":160,"type":"text","text":"# Fact\n$gcd(x,y)=a\\cdot x+ b\\cdot y$\n$a$,$b$可以通过扩展欧几里得算法求出"},
-		{"id":"aca8ad5c0c82e4e9","x":580,"y":70,"width":250,"height":190,"type":"text","text":"# Def\n$x$的倒数"}
+		{"id":"aca8ad5c0c82e4e9","x":640,"y":90,"width":300,"height":170,"type":"text","text":"# Def\n$\\mathbb{Z}_N$中 $x$的倒数也在$\\mathbb{Z}_N$中，表示为$x^{-1}$。其中$x^{-1}\\cdot x = 1$ in $\\mathbb{Z}_N$"},
+		{"id":"076371cd8c1be223","x":540,"y":340,"width":250,"height":60,"type":"text","text":"Lemma"}
 	],
 	"edges":[
 		{"id":"ad4aea5e3c63322f","fromNode":"24f4f51c784b1e50","fromSide":"right","toNode":"1960fcde91c13f6f","toSide":"left"},

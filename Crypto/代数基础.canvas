@@ -9,7 +9,7 @@
 		{"id":"0c808b0923c3c53e","x":-640,"y":145,"width":690,"height":375,"type":"text","text":"# 模运算\n![[Crypto/attachments/Pasted image 20241230172907.png]]"},
 		{"id":"aca8ad5c0c82e4e9","type":"text","text":"# Def\n$\\mathbb{Z}_N$中 $x$的倒数也在$\\mathbb{Z}_N$中，表示为$x^{-1}$。其中$x^{-1}\\cdot x = 1$ in $\\mathbb{Z}_N$","x":840,"y":100,"width":300,"height":170},
 		{"id":"d10ef5f68871ddfc","x":3342,"y":606,"width":638,"height":154,"type":"text","text":"# 费马定理\n$$\n对于素数p,\\forall x \\in \\mathbb Z_p^*: x^{p-1} = 1\\ in\\ \\mathbb Z_p\n$$"},
-		{"id":"e6b23b4a664793ca","x":3512,"y":880,"width":428,"height":140,"type":"text","text":"# 应用：生成随机素数"}
+		{"id":"e6b23b4a664793ca","x":3512,"y":880,"width":428,"height":280,"type":"text","text":"# 应用：生成随机素数\n![[Crypto/attachments/Pasted image 20241230173727.png]]"}
 	],
 	"edges":[
 		{"id":"545b9b67748db0e3","fromNode":"1960fcde91c13f6f","fromSide":"bottom","toNode":"fcb6711e0eba42d1","toSide":"top"},

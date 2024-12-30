@@ -15,9 +15,9 @@
               "state": {
                 "file": "Crypto/代数基础.canvas",
                 "viewState": {
-                  "x": 3723.211666745912,
-                  "y": 895.0577097630297,
-                  "zoom": 0.12067979200389928
+                  "x": 3684.3947153543786,
+                  "y": 915.5183968542349,
+                  "zoom": 0.23567409538931602
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -179,6 +179,7 @@
   },
   "active": "40468a75304bf840",
   "lastOpenFiles": [
+    "Crypto/attachments/Pasted image 20241230173727.png",
     "Crypto/attachments/Pasted image 20241230172907.png",
     "Crypto/attachments",
     "Category Theory/ctfp/组合基础.md",

@@ -15,9 +15,9 @@
               "state": {
                 "file": "Crypto/代数基础.canvas",
                 "viewState": {
-                  "x": 1015.744140625,
-                  "y": 513.5662109375,
-                  "zoom": 0
+                  "x": 892.7535929179264,
+                  "y": 529.6025491052314,
+                  "zoom": 0.21116034213410717
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -76,13 +76,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cd44a31569cb8311",
@@ -180,21 +178,21 @@
   },
   "active": "40468a75304bf840",
   "lastOpenFiles": [
-    "Computer Science/离散数学/知识关系图.canvas",
+    "Category Theory/ctfp/组合基础.md",
+    "Category Theory/ctfp/类型和函数.md",
     "Crypto/代数基础.canvas",
+    "Computer Science/离散数学/知识关系图.canvas",
     "Crypto",
     "Computer Science/离散数学/attachments/Pasted image 20241230122958.png",
     "Computer Science/离散数学/attachments",
     "Computer Science/离散数学/未命名.md",
     "Computer Science/离散数学",
-    "Category Theory/ctfp/组合基础.md",
     "Diary/2024-12-24.md",
     "Diary/2024-12-16.md",
     "Diary/2024-12-09.md",
     "Diary/2024-12-06.md",
     "Diary/2024-12-04.md",
     "Diary/2024-12-20.md",
-    "Category Theory/ctfp/类型和函数.md",
     "Hello Obsidian.md",
     "Category Theory/ctfp",
     "Category Theory",

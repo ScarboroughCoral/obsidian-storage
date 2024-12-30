@@ -7,7 +7,7 @@
 		{"id":"fd5de4a25668b614","x":2089,"y":611,"width":631,"height":209,"type":"text","text":"# 求模线性方程（modular linear equations）\n\n$$\n\\displaylines{\na\\cdot x + b = 0\\ in\\ \\mathbb Z_N\\\\\nx = -b\\cdot a^{-1}\\ in\\ \\mathbb Z_N\n}\n$$\n$a^{-1}$可以通过扩展欧几里得算法在$O(log^2N)$时间求出"},
 		{"id":"fcb6711e0eba42d1","type":"text","text":"# Fact\n$\\forall x,y\\in \\mathbb{ints},\\exists a,b: gcd(x,y)=a\\cdot x+ b\\cdot y$\n$a$,$b$可以通过扩展欧几里得算法求出\n$gcd(x,y)=1$即$x$与$y$互素","x":174,"y":240,"width":394,"height":160},
 		{"id":"24f4f51c784b1e50","type":"text","text":"- $N$表示正整数\n- $p$表示素数\n- $\\mathbb{Z}_N=\\{0,1...,N-1\\}$","x":-320,"y":-100,"width":245,"height":110},
-		{"id":"0c808b0923c3c53e","x":-200,"y":145,"width":250,"height":60,"type":"text","text":"# 模运算"}
+		{"id":"0c808b0923c3c53e","x":-640,"y":145,"width":690,"height":375,"type":"text","text":"# 模运算\n![[Crypto/attachments/Pasted image 20241230172907.png]]"}
 	],
 	"edges":[
 		{"id":"545b9b67748db0e3","fromNode":"1960fcde91c13f6f","fromSide":"bottom","toNode":"fcb6711e0eba42d1","toSide":"top"},

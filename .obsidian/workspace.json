@@ -15,8 +15,8 @@
               "state": {
                 "file": "Crypto/代数基础.canvas",
                 "viewState": {
-                  "x": 527.76171875,
-                  "y": 123.72636718750005,
+                  "x": 1015.744140625,
+                  "y": 513.5662109375,
                   "zoom": 0
                 }
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Lemma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,11 +76,13 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cd44a31569cb8311",
@@ -161,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

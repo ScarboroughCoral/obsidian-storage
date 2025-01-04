@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-12-04.md",
+                "file": "Diary/2025-01-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-04"
+              "title": "2025-01-04"
             }
           }
         ]
@@ -176,9 +176,10 @@
   },
   "active": "473717c16432edb8",
   "lastOpenFiles": [
+    "Diary/2024-12-04.md",
+    "Diary/2025-01-04.md",
     "Web3/拜占庭将军问题.canvas",
     "Web3/以太坊是怎么运行的.canvas",
-    "Diary/2024-12-04.md",
     "Hello Obsidian.md",
     "Diary/Template.md",
     "Web3/attachments/Pasted image 20241203123742.png",

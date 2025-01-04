@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "edf319c02133e560",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7479c818019a2ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "473717c16432edb8",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
+            "id": "e85e05a155b539e4",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
+            "id": "32e739bc8c87f3c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2025-01-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-04"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58707384e01c11d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "22568a48ccab1cc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428c126dca507173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1c467841b6e1f66d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bade9bf72392a402",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd44a31569cb8311",
+    "type": "split",
+    "children": [
+      {
+        "id": "f166d4f3a0baf427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce60399b110e95c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hello Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Hello Obsidian 的反向链接列表"
+            }
+          },
+          {
+            "id": "3f482f599b376aea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hello Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Hello Obsidian 的出链列表"
+            }
+          },
+          {
+            "id": "ef515e1d9dadc6c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "653299d6affee3e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hello Obsidian.md"
+              },
+              "icon": "lucide-list",
+              "title": "Hello Obsidian 的大纲"
+            }
+          },
+          {
+            "id": "4835a1cb0de38d64",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "32e739bc8c87f3c3",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Diary/2025-01-04.md",
+    "Diary/2024-12-24.md",
+    "Crypto/attachments/Pasted image 20241230173727.png",
+    "Crypto/attachments/Pasted image 20241230172907.png",
+    "Crypto/attachments",
+    "Crypto/代数基础.canvas",
+    "Crypto",
+    "Computer Science/离散数学/attachments/Pasted image 20241230122958.png",
+    "Computer Science/离散数学/知识关系图.canvas",
+    "Computer Science/离散数学/attachments",
+    "Computer Science/离散数学",
+    "Computer Science",
+    "Category Theory/ctfp/组合基础.md",
+    "Category Theory/ctfp/类型和函数.md",
+    "Category Theory/ctfp",
+    "Category Theory",
+    "Diary/2024-12-04.md",
+    "Web3/拜占庭将军问题.canvas",
+    "Web3/以太坊是怎么运行的.canvas",
+    "Hello Obsidian.md",
+    "Diary/Template.md",
+    "Web3/attachments/Pasted image 20241203123742.png",
+    "Web3/attachments",
+    "Web3/Front End/attachments/Pasted image 20241203161744.png",
+    "Web3/Front End/attachments",
+    "Web2/NodeJS是如何运行的.canvas",
+    "Web3/Front End/cosmos.canvas",
+    "Diary/2024-12-02.md",
+    "2024-12-02.md",
+    "Diary/Template",
+    "Pasted image 20241201153210.png",
+    "Web3/Front End/ethers.md",
+    "Web3/Front End/357.png",
+    "Web3/Front End/ethers.js.md",
+    "Web3/Front End/348.png",
+    "Web3/Front End/343.png",
+    "Web3/Front End/340.png",
+    "Web2/Engineering/Monorepo/Lerna.md",
+    "Web3/未命名.md",
+    "未命名.md"
+  ]
+}

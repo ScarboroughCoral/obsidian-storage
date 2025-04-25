@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"9bd5bcb7ff5f849d","x":-125,"y":-30,"width":225,"height":60,"type":"text","text":"线性方程组线性无关"}
+		{"id":"9bd5bcb7ff5f849d","type":"text","text":"线性方程组列向量线性无关","x":-125,"y":-30,"width":305,"height":60},
+		{"id":"be10c476c71d1e20","type":"text","text":"线性方程组\n![[Computer Science/线性代数/attachments/Pasted image 20250425133004.png]]","x":-220,"y":-440,"width":500,"height":300}
 	],
 	"edges":[]
 }

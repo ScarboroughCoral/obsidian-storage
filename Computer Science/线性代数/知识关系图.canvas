@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"be10c476c71d1e20","type":"text","text":"线性方程组\n![[Computer Science/线性代数/attachments/Pasted image 20250425133004.png]]\n![[Computer Science/线性代数/attachments/Pasted image 20250425133328.png]]\n![[Computer Science/线性代数/attachments/Pasted image 20250425133411.png]]\n![[Computer Science/线性代数/attachments/Pasted image 20250425133301.png]]","x":-520,"y":-1220,"width":500,"height":960},
 		{"id":"9bd5bcb7ff5f849d","type":"text","text":"方程组系数矩阵可逆","x":20,"y":-140,"width":220,"height":60},
-		{"id":"cbf7f5d30a3d5506","x":289,"y":-103,"width":311,"height":60,"type":"text","text":"存在逆矩阵$A^{-1}$使得$x=A^{-1}b$"}
+		{"id":"cbf7f5d30a3d5506","type":"text","text":"存在逆矩阵$A^{-1}$使得$x=A^{-1}b$，\n即$x_i$是唯一解，由$b_0-b_n$表示\n![[Computer Science/线性代数/attachments/Pasted image 20250427120935.png]]![[Computer Science/线性代数/attachments/Pasted image 20250427120947.png]]","x":340,"y":-220,"width":560,"height":500}
 	],
 	"edges":[
 		{"id":"fb5ebe75d4dbbec9","fromNode":"9bd5bcb7ff5f849d","fromSide":"right","toNode":"cbf7f5d30a3d5506","toSide":"left"}

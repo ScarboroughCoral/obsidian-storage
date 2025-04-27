@@ -4,7 +4,7 @@
 		{"id":"9bd5bcb7ff5f849d","type":"text","text":"方程组系数矩阵可逆","x":20,"y":-140,"width":220,"height":60},
 		{"id":"cbf7f5d30a3d5506","type":"text","text":"存在逆矩阵$A^{-1}$使得$x=A^{-1}b$，\n即$x_i$是唯一解，由$b_0-b_n$表示\n![[Computer Science/线性代数/attachments/Pasted image 20250427120935.png]]![[Computer Science/线性代数/attachments/Pasted image 20250427120947.png]]","x":340,"y":-220,"width":560,"height":500},
 		{"id":"22adb239a8319f22","x":980,"y":-2,"width":313,"height":64,"type":"text","text":"列向量可以线性表示任意向量b，即可以张成整个空间"},
-		{"id":"5bc36e9625e1f891","x":998,"y":-174,"width":250,"height":60,"type":"text","text":"当b=0时"}
+		{"id":"5bc36e9625e1f891","x":998,"y":-174,"width":250,"height":60,"type":"text","text":"当b=0时，只有x=0。即只有"}
 	],
 	"edges":[
 		{"id":"fb5ebe75d4dbbec9","fromNode":"9bd5bcb7ff5f849d","fromSide":"right","toNode":"cbf7f5d30a3d5506","toSide":"left"},
